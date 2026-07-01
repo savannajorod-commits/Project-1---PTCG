@@ -1,4 +1,3 @@
-# Project-1---PTCG
 # Phantom Dive Across NOLA
 
 ## Project Overview
