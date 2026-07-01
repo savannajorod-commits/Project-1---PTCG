@@ -29,7 +29,7 @@ This is a 2 day tournament with Day 2 having 512 players out of nearly 4,000 who
 However, scraping past the 512 player default filter on the Limitless website was difficult. I tried multiple scraping approaches, one successfully scraped multiple pages but far exceeded the 4,000 count, going into the tens of thousands by counting pages repeatedly.
 For the sake of time, I decided to move forward with just the Day 2 list of 512 players
 
-I also would have liked to do more in depth analysis on average tournament performance by deck, but when I sought help from AI for with this script it became very involved with multiple merges and complex details, I didnt want to use code that was completely foreign to me. I went with a simpler deck count limited to the top 64 players instead.
+I also would have liked to do more in depth analysis on average tournament performance by deck, but when I sought help from AI for with this script it became very involved with multiple merges and complex details, I didnt want to use code that was completely foreign to me so isntead  I went with a simpler deck count limited to the top 64 players.
 
 ## Tools Used
 Python
