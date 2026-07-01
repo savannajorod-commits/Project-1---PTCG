@@ -20,7 +20,7 @@ Built visualizations in Datawrapper
 ## Challenges & Reflections
 This project was entirely new skills for me, especially while feeling behind as a result of working alongside the program. It felt like in one day I was able to compile all of the bits of information I needed to get started, and eventually piece them together.
 
-The most challenging area — and where I grew the most was scraping, as this was a completely new skill to me.
+The most challenging area and where I grew the most was scraping, as this was a completely new skill to me.
 
 ## What I Wanted To Do But Couldn't
 
